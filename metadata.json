@@ -1,0 +1,6 @@
+{
+  "name": "HadiyaBook",
+  "description": "Offline-first Hadiya donation record management system for Masjid",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
